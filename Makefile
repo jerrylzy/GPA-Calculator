@@ -1,6 +1,6 @@
 OPTIMIZE = -O3
 
-CC = clang++
+CC = g++
 STD = 14
 CFLAGS = -std=c++$(STD) $(OPTIMIZE) -march=native -mtune=native
 
