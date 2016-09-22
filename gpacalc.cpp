@@ -14,6 +14,7 @@
 #include <string>
 #include <cstdlib>
 #include <vector>
+#include <algorithm>
 using namespace std;
 
 bool isQuarterName(const string& name);
